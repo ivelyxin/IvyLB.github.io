@@ -17,15 +17,15 @@ text-transform:none;
 .bg-primary{
 	background-color: #8c6b6b!important;
     background-image: url("https://www.transparenttextures.com/patterns/wood-pattern.png");
-
 }
 
 .text-primary {
     color: #8c3535!important;
 }
 
-.a {
-	color:#8c3535!important;
+.a {\
+    color: #8c3535!important;
 }
+
 
 
