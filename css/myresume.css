@@ -13,3 +13,8 @@ text-transform:none;
    text-transform:none
    letter-spacing:-0.05rem;
 }
+
+.bg-primary{
+	background-color: #332d5c;
+    background-image: url("https://www.transparenttextures.com/patterns/pw-pattern.png");
+}
