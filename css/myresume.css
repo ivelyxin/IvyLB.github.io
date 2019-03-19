@@ -15,12 +15,17 @@ text-transform:none;
 }
 
 .bg-primary{
-	background-color: #294a54!important;
-    background-image: url("https://www.transparenttextures.com/patterns/pw-pattern.png");
+	background-color: #b53636!important;
+    background-image: url("https://www.transparenttextures.com/patterns/wood-pattern.png");
+
 }
 
 text-primary {
-    color: #0e4454!important;
+    color: #8c3535!important;
+}
+
+a {
+	color:#8c3535!important;
 }
 
 
