@@ -28,5 +28,15 @@ a {
     color: #8c3535!important;
 }
 
+body {
+  counter-reset: section;
+}
+
+div.desc{
+	text-md-right!important;
+}
+
+
+
 
 
